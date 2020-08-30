@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ITOcheck</string>
+    <string name="action_settings">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="UserLogin">Ingrese Usuario</string>
+    <string name="PassLogin">Ingrese Password</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Salir">Salir</string>
+    <string name="apart">apart</string>
+    <string name="title">title</string>
+    <string name="nombreEdi">Nombre Edificio</string>
+    <string name="numeroEdi">Dep.000</string>
+    <string name="direccEdi">Direccion</string>
+    <string name="check1">Luces de la unidad</string>
+    <string name="check2">Elementos del Baño</string>
+    <string name="check3">Elementos de la Cocina</string>
+    <string name="check4">Elementos del Dormitorio</string>
+    <string name="normal">Terminaciones Normales</string>
+    <string name="regular">Terminaciones Regulares</string>
+    <string name="Malas">Terminaciones Malas</string>
+    <string name="Puntaje">Puntaje</string>
+    <string name="btVolver">Volver</string>
+    <string name="btGuardar">Guardar</string>
+    <string name="brAlerta">Enviar Alerta</string>
+    <string name="Puntos">0</string>
+    <string name="score">0</string>
+    <string name="saved_high_score_key">100</string>
+</resources>
